@@ -5,3 +5,5 @@ Takeaways from Mod0 (so far):
   Strategies to try in Mod0:
   1. Keeping up with the review-preview model for my notes and upcoming sessions. This has been super helpful so far and I want to keep that habit going before and after each session.
   2. I want to get more comfortable with playing around with code and trying things. When I find myself wondering "what will happen if I try this thing," I want to try that thing and see what happens.
+
+Shoutout to Cam for being such an awesome partner and wellspring of good advice and hugs :)
