@@ -7,3 +7,5 @@ Takeaways from Mod0 (so far):
   2. I want to get more comfortable with playing around with code and trying things. When I find myself wondering "what will happen if I try this thing," I want to try that thing and see what happens.
 
 Shoutout to Cam for being such an awesome partner and wellspring of good advice and hugs :)
+
+Change to try pushing!
